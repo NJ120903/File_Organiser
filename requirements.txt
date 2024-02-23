@@ -1,0 +1,3 @@
+pip install pytest-shutil
+pip install os-sys
+pip install tkintertable
